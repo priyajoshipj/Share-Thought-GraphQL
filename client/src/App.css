@@ -1,0 +1,27 @@
+.my-container{
+  max-width: 400px !important;
+}
+
+input:focus {
+  border-bottom: 2px solid #673ab7 !important;
+  box-shadow:none !important;
+}
+.nav-wrapper{
+  background-color: #2f3640;
+}
+
+.logout-btn {
+  color: #353b48;
+  font-size: 20px;
+  font-weight: 700;
+}
+.card-area{
+  border-top-left-radius: 5%;
+  border-bottom-right-radius: 5%;
+  border: 5px solid #7f8fa6;
+  padding: 16px;
+  margin: 8px;
+}
+.mt-5{
+  margin-top:30px;
+}
